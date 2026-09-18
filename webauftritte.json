@@ -1,0 +1,226 @@
+{
+  "@context": "https://schema.org",
+  "@id": "https://knowledge.ralf-peter-kleinert.de/webauftritte.json",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://knowledge.ralf-peter-kleinert.de/computerralle-Logo-Final-2026_4000x4000-2048x2048.webp",
+    "contentUrl": "https://knowledge.ralf-peter-kleinert.de/computerralle-Logo-Final-2026_4000x4000-2048x2048.webp",
+    "caption": "ComputerRalle-Logo von Ralf-Peter Kleinert und DIGITAL-easy"
+  },
+  "@type": "ItemList",
+  "name": "Offizielle Webauftritte von Ralf-Peter Kleinert, ComputerRalle und DIGITAL-easy",
+  "description": "Maschinenlesbares Verzeichnis der eindeutig zugeordneten Websites, Profile, Plattformauftritte und Normdaten von Ralf-Peter Kleinert, auch bekannt als ComputerRalle, und seiner Marke DIGITAL-easy.",
+  "url": "https://knowledge.ralf-peter-kleinert.de/webauftritte.json",
+  "inLanguage": "de",
+  "dateModified": "2026-07-29",
+  "numberOfItems": 16,
+  "itemListOrder": "https://schema.org/ItemListOrderAscending",
+  "about": {
+    "@type": "Person",
+    "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert",
+    "name": "Ralf-Peter Kleinert",
+    "alternateName": "ComputerRalle"
+  },
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "WebSite",
+        "@id": "https://ralf-peter-kleinert.de/",
+        "name": "Ralf-Peter Kleinert – Computer-Sicherheit und IT-Themen",
+        "url": "https://ralf-peter-kleinert.de/",
+        "description": "Offizielle Hauptwebsite von Ralf-Peter Kleinert beziehungsweise ComputerRalle.",
+        "inLanguage": "de",
+        "author": { "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "WebSite",
+        "@id": "https://digital-easy.de/",
+        "name": "DIGITAL-easy",
+        "url": "https://digital-easy.de/",
+        "description": "Offizielle Website der Marke DIGITAL-easy.",
+        "inLanguage": "de",
+        "publisher": { "@id": "https://knowledge.ralf-peter-kleinert.de/#digital-easy" }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "WebSite",
+        "@id": "https://computerralle.de/",
+        "name": "ComputerRalle",
+        "url": "https://computerralle.de/",
+        "description": "Offizielle Website der öffentlichen Person und Marke ComputerRalle mit Schwerpunkt IT-Sicherheit und digitale Selbstverteidigung.",
+        "inLanguage": "de",
+        "author": { "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "WebSite",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/",
+        "name": "Knowledge Base Ralf-Peter Kleinert / ComputerRalle",
+        "url": "https://knowledge.ralf-peter-kleinert.de/",
+        "description": "Autoritative menschen- und maschinenlesbare Knowledge Base.",
+        "inLanguage": "de",
+        "author": { "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "@type": "Blog",
+        "@id": "https://blog.ralf-peter-kleinert.de/",
+        "name": "DIGITAL-easy Blog",
+        "url": "https://blog.ralf-peter-kleinert.de/",
+        "description": "Offizieller Blog mit Beiträgen und Anleitungen von Ralf-Peter Kleinert / ComputerRalle.",
+        "inLanguage": "de",
+        "author": { "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "item": {
+        "@type": "WebSite",
+        "@id": "https://downloads.ralf-peter-kleinert.de/",
+        "name": "Downloads von Ralf-Peter Kleinert / ComputerRalle",
+        "url": "https://downloads.ralf-peter-kleinert.de/",
+        "description": "Offizieller Downloadbereich für Programme, Dokumente und ergänzende Inhalte.",
+        "inLanguage": "de",
+        "author": { "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "item": {
+        "@type": "WebSite",
+        "@id": "https://old.ralf-peter-kleinert.de/",
+        "name": "Archivierte Website von Ralf-Peter Kleinert",
+        "url": "https://old.ralf-peter-kleinert.de/",
+        "description": "Älterer offizieller Webauftritt, der von der Über-mich-Seite als Archiv verlinkt wird.",
+        "inLanguage": "de",
+        "author": { "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "item": {
+        "@type": "Blog",
+        "@id": "https://computerralle.blogspot.com/",
+        "name": "ComputerRalle auf Blogger",
+        "url": "https://computerralle.blogspot.com/",
+        "description": "Offizieller Blogger-Auftritt von ComputerRalle.",
+        "inLanguage": "de",
+        "author": { "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 9,
+      "item": {
+        "@type": "ProfilePage",
+        "@id": "https://www.youtube.com/@ComputerRalle",
+        "name": "ComputerRalle auf YouTube",
+        "url": "https://www.youtube.com/@ComputerRalle",
+        "description": "Offizieller YouTube-Kanal von Ralf-Peter Kleinert / ComputerRalle.",
+        "mainEntity": { "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 10,
+      "item": {
+        "@type": "ProfilePage",
+        "@id": "https://de.linkedin.com/in/ralf-peter-kleinert",
+        "name": "Ralf-Peter Kleinert / ComputerRalle auf LinkedIn",
+        "url": "https://de.linkedin.com/in/ralf-peter-kleinert",
+        "description": "Offizielles LinkedIn-Profil.",
+        "mainEntity": { "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 11,
+      "item": {
+        "@type": "ProfilePage",
+        "@id": "https://mastodon.social/@digitaleasy",
+        "name": "ComputerRalle / DIGITAL-easy auf Mastodon",
+        "url": "https://mastodon.social/@digitaleasy",
+        "description": "Offizielles Mastodon-Profil unter dem Benutzernamen @digitaleasy@mastodon.social.",
+        "mainEntity": { "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 12,
+      "item": {
+        "@type": "ProfilePage",
+        "@id": "https://www.facebook.com/ComputerRalle",
+        "name": "ComputerRalle auf Facebook",
+        "url": "https://www.facebook.com/ComputerRalle",
+        "description": "Offizielle Facebook-Seite von ComputerRalle.",
+        "mainEntity": { "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 13,
+      "item": {
+        "@type": "ProfilePage",
+        "@id": "https://www.facebook.com/ralf.peter.kleinert.81",
+        "name": "Ralf-Peter Kleinert auf Facebook",
+        "url": "https://www.facebook.com/ralf.peter.kleinert.81",
+        "description": "Persönliches Facebook-Profil, das auf der offiziellen Hauptwebsite verlinkt ist.",
+        "mainEntity": { "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 14,
+      "item": {
+        "@type": "ProfilePage",
+        "@id": "https://www.amazon.de/stores/Ralf-Peter-Kleinert-RPK/author/B0D6FVWCTN",
+        "name": "Ralf-Peter Kleinert auf Amazon",
+        "url": "https://www.amazon.de/stores/Ralf-Peter-Kleinert-RPK/author/B0D6FVWCTN",
+        "description": "Offizielle Amazon-Autorenseite mit den veröffentlichten Büchern.",
+        "mainEntity": { "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 15,
+      "item": {
+        "@type": "ProfilePage",
+        "@id": "https://d-nb.info/gnd/1361273895",
+        "name": "Ralf-Peter Kleinert in der Gemeinsamen Normdatei",
+        "url": "https://d-nb.info/gnd/1361273895",
+        "description": "Normdatensatz der Deutschen Nationalbibliothek mit der GND-Nummer 1361273895.",
+        "mainEntity": { "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 16,
+      "item": {
+        "@type": "ProfilePage",
+        "@id": "https://www.google.com/maps/search/?api=1&query=Ralf-Peter+Kleinert+DIGITAL-easy",
+        "name": "Ralf-Peter Kleinert DIGITAL-easy bei Google Maps",
+        "url": "https://www.google.com/maps/search/?api=1&query=Ralf-Peter+Kleinert+DIGITAL-easy",
+        "description": "Google-Maps-Suche zum offiziellen Unternehmensprofil und den öffentlichen Bewertungen von Ralf-Peter Kleinert DIGITAL-easy.",
+        "mainEntity": { "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" }
+      }
+    }
+  ]
+}

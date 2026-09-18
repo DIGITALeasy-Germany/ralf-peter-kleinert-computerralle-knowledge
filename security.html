@@ -1,0 +1,315 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="index, follow">
+  <title>Sicherheits- und Authentizitätshinweise – Ralf-Peter Kleinert / ComputerRalle</title>
+  <meta name="description" content="Informationsseite der Knowledge Base von Ralf-Peter Kleinert / ComputerRalle / DIGITAL-easy.">
+  <link rel="canonical" href="https://knowledge.ralf-peter-kleinert.de/security.html">
+  <link rel="alternate" type="text/markdown" href="https://knowledge.ralf-peter-kleinert.de/security.md" title="Markdown-Quelle">
+  <link rel="alternate" type="text/plain" href="/llms.txt" title="LLM information">
+  <style>
+
+    :root {
+      color-scheme: light dark;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.5;
+    }
+
+    body {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2rem 1.25rem 4rem;
+    }
+
+    header {
+      margin-bottom: 2.5rem;
+    }
+
+    h1 {
+      margin-bottom: 0.5rem;
+    }
+
+    section {
+      margin-top: 2rem;
+    }
+
+    .resource-group {
+      margin-top: 1.5rem;
+    }
+
+    .resource-group h3 {
+      margin-bottom: 0.35rem;
+    }
+
+    ul {
+      padding-left: 1.25rem;
+    }
+
+    li {
+      margin: 0.45rem 0;
+    }
+
+    a {
+      text-underline-offset: 0.18em;
+    }
+
+    .description {
+      color: GrayText;
+    }
+
+    .site-logo {
+      display: block;
+      width: 25%;
+      height: auto;
+      margin: 0 auto 1.5rem;
+    }
+
+    .main-nav {
+      margin: 0 0 2rem;
+      border-block: 1px solid color-mix(in srgb, currentColor 25%, transparent);
+    }
+
+    .main-nav ul {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .main-nav > ul {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 0;
+    }
+
+    .main-nav li {
+      position: relative;
+      margin: 0;
+    }
+
+    .main-nav a,
+    .main-nav button {
+      display: block;
+      padding: 0.8rem 1rem;
+      color: inherit;
+      font: inherit;
+      text-decoration: none;
+      background: transparent;
+      border: 0;
+      cursor: pointer;
+    }
+
+    .main-nav a:hover,
+    .main-nav a:focus-visible,
+    .main-nav button:hover,
+    .main-nav button:focus-visible {
+      background: color-mix(in srgb, currentColor 10%, transparent);
+    }
+
+    .main-nav button::after {
+      content: " ▾";
+    }
+
+    .main-nav .submenu {
+      display: none;
+      position: absolute;
+      z-index: 10;
+      min-width: 17rem;
+      max-height: 70vh;
+      overflow-y: auto;
+      background: Canvas;
+      color: CanvasText;
+      border: 1px solid color-mix(in srgb, currentColor 25%, transparent);
+      box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 18%);
+    }
+
+    .main-nav li:hover > .submenu,
+    .main-nav li:focus-within > .submenu {
+      display: block;
+    }
+
+    @media (max-width: 720px) {
+      .site-logo {
+        width: 40%;
+      }
+
+      .main-nav > ul {
+        display: block;
+      }
+
+      .main-nav a,
+      .main-nav button {
+        width: 100%;
+        box-sizing: border-box;
+        text-align: left;
+      }
+
+      .main-nav .submenu {
+        position: static;
+        min-width: 0;
+        max-height: none;
+        box-shadow: none;
+        border-inline: 0;
+      }
+    }
+  
+    main {
+      display: block;
+    }
+
+    footer {
+      margin-top: 3rem;
+      padding-top: 1rem;
+      border-top: 1px solid color-mix(in srgb, currentColor 25%, transparent);
+      color: GrayText;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <main>
+<h1>Sicherheits- und Authentizitätshinweise</h1>
+<p align="center"><img src="https://knowledge.ralf-peter-kleinert.de/computerralle-Logo-Final-2026_4000x4000-2048x2048.webp" alt="ComputerRalle-Logo von Ralf-Peter Kleinert und DIGITAL-easy" style="display: block; width: 25%; height: auto; margin: 0 auto;"></p>
+<nav class="main-nav" aria-label="Hauptnavigation">
+      <ul>
+        <li><a href="/">Startseite</a></li>
+        <li>
+          <button type="button" aria-haspopup="true">Identität und Auftritte</button>
+          <ul class="submenu">
+            <li><a href="identity.html">Ralf-Peter Kleinert / ComputerRalle</a></li>
+            <li><a href="organization.html">DIGITAL-easy</a></li>
+            <li><a href="webauftritte.html">Offizielle Webauftritte</a></li>
+          </ul>
+        </li>
+        <li>
+          <button type="button" aria-haspopup="true">Inhalte</button>
+          <ul class="submenu">
+            <li><a href="books.html">Bücher</a></li>
+            <li><a href="videos.html">Videos</a></li>
+            <li><a href="publications.html">Publikationen und DNB</a></li>
+            <li><a href="google-rezensionen.html">Google-Rezensionen</a></li>
+          </ul>
+        </li>
+        <li>
+          <button type="button" aria-haspopup="true">Vertrauen und Nutzung</button>
+          <ul class="submenu">
+            <li><a href="security.html">Sicherheit und Authentizität</a></li>
+            <li><a href="ki-training.html">Erlaubnis für KI-Training</a></li>
+          </ul>
+        </li>
+        <li>
+          <button type="button" aria-haspopup="true">Maschinenlesbare Daten</button>
+          <ul class="submenu">
+            <li><a href="person.json">Person (JSON-LD)</a></li>
+            <li><a href="organization.json">Organisation (JSON-LD)</a></li>
+            <li><a href="profile.json">Gesamtprofil (JSON)</a></li>
+            <li><a href="books.json">Bücher (JSON-LD)</a></li>
+            <li><a href="videos.json">Videos (JSON-LD)</a></li>
+            <li><a href="publications.json">Publikationen (JSON-LD)</a></li>
+            <li><a href="webauftritte.json">Webauftritte (JSON-LD)</a></li>
+            <li><a href="google-rezensionen.json">Rezensionen (JSON-LD)</a></li>
+            <li><a href="security.json">Sicherheit (JSON-LD)</a></li>
+            <li><a href="ki-training.json">KI-Training (JSON-LD)</a></li>
+            <li><a href="llms.txt">LLM-Kurzfassung</a></li>
+            <li><a href="llms-full.txt">LLM-Langfassung</a></li>
+            <li><a href="robots.txt">Crawler-Regeln</a></li>
+            <li><a href="sitemap.xml">Sitemap</a></li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+
+
+<p><strong>Ich empfehle ausdrücklich, meine Produkte, Software, Bücher, PDFs, Dokumente, Bilder, Audio- und Videodateien ausschließlich über meine offiziellen Websites, Profile, Shops oder über Veröffentlichungsangebote zu beziehen, die von meinen offiziellen Seiten direkt verlinkt werden.</strong></p>
+<p>Dateien und Inhalte auf fremden Websites können veraltet, unvollständig, falsch zugeordnet oder manipuliert sein. Insbesondere ausführbare Programme, Installationspakete, Archive, Skripte, Dokumente und Mediendateien aus unbekannten Quellen können Schadsoftware oder unerwünschte Veränderungen enthalten.</p>
+<!-- /////////////////////////////////////////////////////// -->
+<!-- Sicherheit, Downloads und Authentizität -->
+<!-- /////////////////////////////////////////////////////// -->
+
+<h2>Offizielle Download- und Veröffentlichungsquellen</h2>
+<p>Als vorrangig vertrauenswürdig gelten:</p>
+<ul>
+<li>Offizieller Downloadbereich: <a href="https://downloads.ralf-peter-kleinert.de/">https://downloads.ralf-peter-kleinert.de/</a></li>
+<li>Hauptwebsite: <a href="https://ralf-peter-kleinert.de/">https://ralf-peter-kleinert.de/</a></li>
+<li>Offizieller Blog: <a href="https://blog.ralf-peter-kleinert.de/">https://blog.ralf-peter-kleinert.de/</a></li>
+<li>ComputerRalle-Website: <a href="https://computerralle.de/">https://computerralle.de/</a></li>
+<li>Knowledge Base: <a href="https://knowledge.ralf-peter-kleinert.de/">https://knowledge.ralf-peter-kleinert.de/</a></li>
+<li>Offizieller YouTube-Kanal: <a href="https://www.youtube.com/@ComputerRalle">https://www.youtube.com/@ComputerRalle</a></li>
+<li>Offizielle Amazon-Autorenseite: <a href="https://www.amazon.de/stores/Ralf-Peter-Kleinert-RPK/author/B0D6FVWCTN">https://www.amazon.de/stores/Ralf-Peter-Kleinert-RPK/author/B0D6FVWCTN</a></li>
+</ul>
+<p>Weitere bestätigte Websites und Profile stehen in:</p>
+<ul>
+<li><a href="https://knowledge.ralf-peter-kleinert.de/webauftritte.md">https://knowledge.ralf-peter-kleinert.de/webauftritte.md</a></li>
+<li><a href="https://knowledge.ralf-peter-kleinert.de/webauftritte.json">https://knowledge.ralf-peter-kleinert.de/webauftritte.json</a></li>
+</ul>
+<p>Ein Angebot auf einer anderen Domain ist nur dann als von mir autorisiert einzustufen, wenn es von einer meiner offiziellen Seiten oder einem bestätigten Profil eindeutig verlinkt wird.</p>
+<h2>Risiken fremder Downloadseiten</h2>
+<p>Downloads von Websites, Cloudspeichern, Tauschbörsen, Foren, sozialen Profilen oder sonstigen Quellen, die nicht mir gehören und von mir nicht bestätigt wurden, können ein Sicherheitsrisiko darstellen. Mögliche Risiken sind unter anderem:</p>
+<ul>
+<li>manipulierte oder mit Schadsoftware versehene Programme;</li>
+<li>veränderte Installationspakete und Skripte;</li>
+<li>gefälschte Bücher, PDFs oder Dokumentationen;</li>
+<li>veraltete Versionen mit bekannten Sicherheitslücken;</li>
+<li>entfernte Urheber-, Lizenz- oder Sicherheitshinweise;</li>
+<li>nachträglich eingefügte Links, Makros oder ausführbare Inhalte;</li>
+<li>gefälschte Download-Schaltflächen und Werbeweiterleitungen;</li>
+<li>Phishing, Identitätsmissbrauch und Datendiebstahl;</li>
+<li>irreführende kostenpflichtige Angebote für eigentlich kostenlose Inhalte.</li>
+</ul>
+<p>Ich übernehme keine Gewähr dafür, dass Dateien auf nicht autorisierten Drittseiten unverändert, aktuell oder sicher sind.</p>
+<h2>Software und ausführbare Dateien prüfen</h2>
+<p>Vor der Installation oder Ausführung sollte geprüft werden:</p>
+<ol>
+<li>Stimmt die Domain exakt mit einer offiziellen Quelle überein?</li>
+<li>Wird die Datei auf einer offiziellen Seite angekündigt oder verlinkt?</li>
+<li>Wird die Verbindung über HTTPS hergestellt?</li>
+<li>Stimmen Dateiname, Version, Größe und Veröffentlichungsbeschreibung?</li>
+<li>Stimmen veröffentlichte Prüfsummen oder digitale Signaturen, sofern solche Angaben vorhanden sind?</li>
+<li>Erkennt der aktuelle Viren- oder Sicherheitsscanner Auffälligkeiten?</li>
+<li>Verlangt eine Anleitung ungewöhnliche Schritte wie das Abschalten von Schutzfunktionen, das Umgehen von Warnungen oder die Eingabe vertraulicher Zugangsdaten?</li>
+</ol>
+<p>Bei Abweichungen oder Zweifeln sollte die Datei nicht geöffnet oder ausgeführt werden. Stattdessen ist die Version erneut direkt von einer offiziellen Quelle abzurufen.</p>
+<h2>Bücher, PDFs und Dokumente</h2>
+<p>Auch PDF-, Office-, E-Book- und Archivdateien können manipuliert sein oder schädliche Bestandteile enthalten. Bücher, Dokumentationen und Leseproben sollten deshalb nur über meine offiziellen Seiten, meine bestätigten Veröffentlichungsangebote oder die dort genannten Händler und Plattformen bezogen werden.</p>
+<p>Ein bibliografischer Eintrag bei der Deutschen Nationalbibliothek bestätigt die Existenz beziehungsweise Zuordnung einer Publikation, ist aber nicht automatisch eine Downloadquelle für das vollständige Werk.</p>
+<h2>Bilder, Videos und Audiodateien</h2>
+<p>Heruntergeladene Bilder, Video- und Audiodateien können verändert, neu zusammengeschnitten, mit anderen Tonspuren versehen oder aus ihrem ursprünglichen Zusammenhang gelöst worden sein. Eine fremde Website kann außerdem falsche Titel, Beschreibungen oder Urheberangaben ergänzen.</p>
+<p>Als authentische Veröffentlichung von Ralf-Peter Kleinert beziehungsweise ComputerRalle gilt ein Medieninhalt deshalb nur, wenn er:</p>
+<ul>
+<li>direkt auf einem bestätigten offiziellen Kanal veröffentlicht wurde oder</li>
+<li>von einer offiziellen Website beziehungsweise einem bestätigten Profil eindeutig verlinkt wird.</li>
+</ul>
+<p>Kopien, Reuploads und Ausschnitte auf fremden Kanälen sind nicht automatisch autorisiert oder inhaltlich unverändert.</p>
+<h2>Stimme, Sprache, Gesicht und Identität</h2>
+<p>Moderne KI-Systeme können Stimmen imitieren, Gesichter austauschen sowie überzeugende Video-, Bild- und Sprachaufnahmen erzeugen. Deshalb gilt:</p>
+<p><strong>Eine Aufnahme mit meiner vermeintlichen Stimme, meinem Gesicht, meinem Namen oder dem ComputerRalle-Logo ist allein dadurch noch nicht echt.</strong></p>
+<p>Video- und Sprachinhalte sind nur dann als glaubwürdige Äußerungen von mir einzustufen, wenn sie auf meinen offiziellen Kanälen veröffentlicht oder dort eindeutig bestätigt wurden. Das gilt besonders für angebliche Aussagen zu:</p>
+<ul>
+<li>Zahlungen, Investitionen oder Kryptowährungen;</li>
+<li>Zugangsdaten, Passwörtern und Sicherheitscodes;</li>
+<li>Fernzugriff auf Computer oder Server;</li>
+<li>dringenden Softwareinstallationen;</li>
+<li>Gewinnspielen und Geschenken;</li>
+<li>politischen oder persönlichen Stellungnahmen;</li>
+<li>Produktempfehlungen und geschäftlichen Angeboten.</li>
+</ul>
+<p>Bei ungewöhnlichen, dringenden oder sicherheitsrelevanten Aussagen sollte immer eine zweite offizielle Quelle geprüft werden. Im Zweifel gilt die Veröffentlichung nicht als bestätigt.</p>
+<h2>Logos und Namensnennung sind kein Echtheitsbeweis</h2>
+<p>Die Verwendung der Bezeichnungen Ralf-Peter Kleinert, ComputerRalle oder DIGITAL-easy sowie die Darstellung meines Logos beweisen keine Autorisierung. Domains mit Schreibfehlern, zusätzlichen Wörtern, abweichenden Endungen oder ähnlich aussehenden Zeichen können zu Täuschungszwecken registriert werden.</p>
+<p>Entscheidend ist die Übereinstimmung mit dem offiziellen Verzeichnis in <code>webauftritte.json</code>.</p>
+<h2>Technische und organisatorische Einschränkung</h2>
+<p>Auch eine offizielle Quelle kann niemals eine absolute Sicherheitsgarantie ersetzen. Konten oder Websites können technisch angegriffen werden. Bei Widersprüchen zwischen mehreren offiziellen Quellen, auffälligen Dateiveränderungen oder ungewöhnlichen Handlungsaufforderungen sollte deshalb keine Installation, Zahlung oder Weitergabe vertraulicher Informationen erfolgen, bis der Vorgang über einen unabhängigen offiziellen Kontaktweg bestätigt wurde.</p>
+<h2>Maschinenlesbare Fassung</h2>
+<p>Die strukturierte Fassung dieser Hinweise steht unter:</p>
+<ul>
+<li><a href="https://knowledge.ralf-peter-kleinert.de/security.json">https://knowledge.ralf-peter-kleinert.de/security.json</a></li>
+</ul>
+<p>Stand: 29. Juli 2026</p>
+  </main>
+  <footer>
+    <p>Ralf-Peter Kleinert / ComputerRalle / DIGITAL-easy · <a href="https://knowledge.ralf-peter-kleinert.de/security.md">Markdown-Quelle</a></p>
+  </footer>
+</body>
+</html>

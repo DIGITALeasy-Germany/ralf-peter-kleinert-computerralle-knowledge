@@ -1,0 +1,472 @@
+{
+  "@context": "https://schema.org",
+  "@id": "https://knowledge.ralf-peter-kleinert.de/books.json",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://knowledge.ralf-peter-kleinert.de/computerralle-Logo-Final-2026_4000x4000-2048x2048.webp",
+    "contentUrl": "https://knowledge.ralf-peter-kleinert.de/computerralle-Logo-Final-2026_4000x4000-2048x2048.webp",
+    "caption": "ComputerRalle-Logo von Ralf-Peter Kleinert und DIGITAL-easy"
+  },
+  "@type": "ItemList",
+  "name": "Bücher von Ralf-Peter Kleinert",
+  "description": "Maschinenlesbares Verzeichnis der veröffentlichten Bücher und Sprachausgaben von Ralf-Peter Kleinert.",
+  "url": "https://knowledge.ralf-peter-kleinert.de/books.md",
+  "authorProfile": "https://www.amazon.de/stores/Ralf-Peter-Kleinert-RPK/author/B0D6FVWCTN",
+  "numberOfItems": 25,
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/books/b0gpq7cm77",
+        "name": "Proxmox VE 9 Praxisbuch: Proxmox lernen verstehen und nutzen",
+        "author": { "@type": "Person", "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "description": "Praxisorientierter Leitfaden zu Installation, Betrieb, Backup, Clustern, Automatisierung, VLAN, Fehleranalyse und Firewall-Konfiguration mit Proxmox VE 9.",
+        "inLanguage": "de",
+        "datePublished": "2026-02-20",
+        "isbn": "979-8249406639",
+        "publisher": { "@type": "Organization", "name": "Independently published" },
+        "numberOfPages": 514,
+        "bookFormat": "https://schema.org/Paperback",
+        "url": "https://www.amazon.de/dp/B0GPQ7CM77",
+        "sameAs": ["https://www.amazon.de/dp/B0GPQ7CM77"]
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/books/b0f1nhrjdh",
+        "name": "Brain-Cloud: Notizbuch für IT-ler",
+        "author": { "@type": "Person", "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "description": "Punktkariertes Notizbuch für IT-Fachleute, Entwickler, Administratoren und Studierende zur Dokumentation von Code, Netzwerken, Skizzen und technischen Ideen.",
+        "inLanguage": "de",
+        "datePublished": "2025-03-14",
+        "publisher": { "@type": "Organization", "name": "Independently published" },
+        "numberOfPages": 406,
+        "bookFormat": "https://schema.org/Paperback",
+        "url": "https://www.amazon.de/dp/B0F1NHRJDH",
+        "sameAs": ["https://www.amazon.de/dp/B0F1NHRJDH"]
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/books/b0dsdbllzw",
+        "name": "Cloud verstehen und nutzen 2025: Cloud-Dienste und Cloud im Alltag",
+        "author": { "@type": "Person", "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "description": "Verständliche Einführung in Cloud-Dienste, Datenschutz, Verschlüsselung sowie die Auswahl geeigneter europäischer und internationaler Anbieter für private und berufliche Daten.",
+        "inLanguage": "de",
+        "datePublished": "2025-01-06",
+        "isbn": "979-8306068558",
+        "publisher": { "@type": "Organization", "name": "Independently published" },
+        "numberOfPages": 246,
+        "bookFormat": "https://schema.org/Paperback",
+        "url": "https://www.amazon.de/dp/B0DSDBLLZW",
+        "sameAs": ["https://www.amazon.de/dp/B0DSDBLLZW"]
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/books/b0gqy4psnp",
+        "name": "Proxmox VE 9 Practical Guide: Learning, Understanding and Using Proxmox",
+        "author": { "@type": "Person", "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "description": "English-language practical guide to installing, understanding, securing and operating Proxmox VE 9, including backup, clusters, networking and troubleshooting.",
+        "inLanguage": "en",
+        "datePublished": "2026-03-02",
+        "isbn": "979-8250474535",
+        "publisher": { "@type": "Organization", "name": "Independently published" },
+        "numberOfPages": 473,
+        "bookFormat": "https://schema.org/Paperback",
+        "url": "https://www.amazon.de/dp/B0GQY4PSNP",
+        "sameAs": ["https://www.amazon.de/dp/B0GQY4PSNP"]
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/books/b0dpm9vvc4",
+        "name": "Proxmox VE 8 Praxisbuch: Informationen, Tipps und Tricks für Proxmox-Einsteiger und Fortgeschrittene",
+        "author": { "@type": "Person", "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "description": "Praxisbuch für Einsteiger und Fortgeschrittene zu Installation, Konfiguration und Betrieb von Proxmox VE 8 sowie zu Backup, Netzwerk und Administration.",
+        "inLanguage": "de",
+        "datePublished": "2024-07-31",
+        "isbn": "979-8302502506",
+        "publisher": { "@type": "Organization", "name": "Independently published" },
+        "numberOfPages": 450,
+        "bookFormat": "https://schema.org/Paperback",
+        "url": "https://www.amazon.de/dp/B0DPM9VVC4",
+        "sameAs": ["https://www.amazon.de/dp/B0DPM9VVC4"]
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/books/b0ddcx7m3l",
+        "name": "Schluss mit Windows!: Jetzt kommt Linux!",
+        "author": { "@type": "Person", "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "description": "Praxisnaher Einstieg in Linux als Alternative zu Windows mit Orientierung für den Systemwechsel und den alltäglichen Einsatz.",
+        "inLanguage": "de",
+        "datePublished": "2024-08-11",
+        "isbn": "979-8336059748",
+        "publisher": { "@type": "Organization", "name": "Independently published" },
+        "numberOfPages": 324,
+        "bookFormat": "https://schema.org/Paperback",
+        "url": "https://www.amazon.de/dp/B0DDCX7M3L",
+        "sameAs": ["https://www.amazon.de/dp/B0DDCX7M3L"]
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/books/b0dl5qfgmb",
+        "name": "Proxmox Firewall: Verstehen Einschalten Abschotten",
+        "author": { "@type": "Person", "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "description": "Einführung in die mehrstufige Proxmox-Firewall für Datacenter, Nodes, virtuelle Maschinen und Container mit Regeln, Ports und praktischen Absicherungsbeispielen.",
+        "inLanguage": "de",
+        "datePublished": "2024-10-27",
+        "numberOfPages": 205,
+        "bookFormat": "https://schema.org/EBook",
+        "url": "https://www.amazon.de/dp/B0DL5QFGMB",
+        "sameAs": ["https://www.amazon.de/dp/B0DL5QFGMB"]
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/books/b0d73xn1js",
+        "name": "Computer und IT-Sicherheits-Fibel: Informationen, Tipps und Tricks für Computer-Einsteiger und Fortgeschrittene",
+        "author": { "@type": "Person", "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "description": "Leitfaden zur Computer- und Informationssicherheit mit Hinweisen zu Backups, Passwörtern, Passkeys, Phishing, Datenverlust, sozialen Medien und digitalen Betrugsformen.",
+        "inLanguage": "de",
+        "datePublished": "2024-06-13",
+        "numberOfPages": 300,
+        "bookFormat": "https://schema.org/EBook",
+        "url": "https://www.amazon.de/dp/B0D73XN1JS",
+        "sameAs": ["https://www.amazon.de/dp/B0D73XN1JS"]
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 9,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/books/b0f38998tm",
+        "name": "KeePassXC und Proton Drive: Passwort-Management",
+        "author": { "@type": "Person", "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "description": "Praxisanleitung für sicheres Passwort-Management mit KeePassXC und die geschützte Synchronisation beziehungsweise Ablage über Proton Drive.",
+        "inLanguage": "de",
+        "datePublished": "2025-03-31",
+        "numberOfPages": 60,
+        "bookFormat": "https://schema.org/EBook",
+        "url": "https://www.amazon.de/dp/B0F38998TM",
+        "sameAs": ["https://www.amazon.de/dp/B0F38998TM"]
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 10,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/books/b0dgxtlssv",
+        "name": "Proxmox VE 8 Proxmox BS 3 Profibuch: Hochverfügbarkeits-Cluster Aufbau",
+        "author": { "@type": "Person", "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "description": "Fortgeschrittener Praxisleitfaden zum Aufbau eines hochverfügbaren Proxmox-VE- und Proxmox-Backup-Server-Clusters.",
+        "inLanguage": "de",
+        "datePublished": "2024-09-12",
+        "numberOfPages": 231,
+        "bookFormat": "https://schema.org/EBook",
+        "url": "https://www.amazon.de/dp/B0DGXTLSSV",
+        "sameAs": ["https://www.amazon.de/dp/B0DGXTLSSV"]
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 11,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/books/b0dk3t3xlg",
+        "name": "Meine Sicherheit: Sicherheits-Leitfaden für ältere Menschen",
+        "author": { "@type": "Person", "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "description": "Verständlicher Sicherheitsleitfaden für ältere Menschen zu digitalen Risiken, Betrugsversuchen, sicheren Zugangsdaten und dem Schutz persönlicher Informationen.",
+        "inLanguage": "de",
+        "datePublished": "2024-10-14",
+        "numberOfPages": 134,
+        "bookFormat": "https://schema.org/EBook",
+        "url": "https://www.amazon.de/dp/B0DK3T3XLG",
+        "sameAs": ["https://www.amazon.de/dp/B0DK3T3XLG"]
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 12,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/books/b0dfty4mdm",
+        "name": "Computersicherheit für kleine und mittlere Unternehmen: Kunden- und Unternehmensdaten schützen",
+        "author": { "@type": "Person", "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "description": "Praxisorientierter Leitfaden für kleine und mittlere Unternehmen zum Schutz von Kunden-, Mitarbeiter- und Unternehmensdaten sowie zur Verbesserung der IT-Sicherheit.",
+        "inLanguage": "de",
+        "datePublished": "2024-08-31",
+        "isbn": "979-8337916057",
+        "publisher": { "@type": "Organization", "name": "Independently published" },
+        "numberOfPages": 184,
+        "bookFormat": "https://schema.org/Paperback",
+        "url": "https://www.amazon.de/dp/B0DFTY4MDM",
+        "sameAs": ["https://www.amazon.de/dp/B0DFTY4MDM"]
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 13,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/books/b0dj5g3jfx",
+        "name": "Die Mutter aller KI Bücher: Verstehen Sie Künstliche Intelligenz, bevor sie Sie versteht – Der ultimative Leitfaden für die Zukunft",
+        "author": { "@type": "Person", "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "description": "Allgemein verständlicher Zukunftsleitfaden zu Grundlagen, Chancen, Risiken und gesellschaftlichen Auswirkungen künstlicher Intelligenz.",
+        "inLanguage": "de",
+        "datePublished": "2024-09-27",
+        "numberOfPages": 422,
+        "bookFormat": "https://schema.org/EBook",
+        "url": "https://www.amazon.de/dp/B0DJ5G3JFX",
+        "sameAs": ["https://www.amazon.de/dp/B0DJ5G3JFX"]
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 14,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/books/b0f66y883x",
+        "name": "Proxmox VE 8 Powerbuch: Proxmox einrichten und nutzen, vom Anfang zum Profi",
+        "author": { "@type": "Person", "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "description": "Umfassender Praxisleitfaden, der von der Einrichtung bis zum fortgeschrittenen Einsatz von Proxmox VE 8 führt.",
+        "inLanguage": "de",
+        "datePublished": "2025-04-24",
+        "isbn": "978-3819403040",
+        "publisher": { "@type": "Organization", "name": "tolino media" },
+        "numberOfPages": 385,
+        "bookFormat": "https://schema.org/EBook",
+        "url": "https://www.amazon.de/dp/B0F66Y883X",
+        "sameAs": ["https://www.amazon.de/dp/B0F66Y883X"]
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 15,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/books/b0h7f7nlqq",
+        "name": "Proxmox VE 9 Practical Guide (English Edition)",
+        "author": { "@type": "Person", "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "description": "English-language practical guide to learning, understanding and using Proxmox VE 9 in real-world environments.",
+        "inLanguage": "en",
+        "datePublished": "2026-07-03",
+        "numberOfPages": 547,
+        "bookFormat": "https://schema.org/EBook",
+        "url": "https://www.amazon.de/dp/B0H7F7NLQQ",
+        "sameAs": ["https://www.amazon.de/dp/B0H7F7NLQQ"]
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 16,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/books/b0df35y9r4",
+        "name": "No more Windows!: Now comes Linux!",
+        "author": { "@type": "Person", "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "description": "English-language guide to moving from Windows to Linux and using Linux as a practical desktop alternative.",
+        "inLanguage": "en",
+        "datePublished": "2024-08-20",
+        "isbn": "979-8336354454",
+        "publisher": { "@type": "Organization", "name": "Independently published" },
+        "numberOfPages": 292,
+        "bookFormat": "https://schema.org/Paperback",
+        "url": "https://www.amazon.de/dp/B0DF35Y9R4",
+        "sameAs": ["https://www.amazon.de/dp/B0DF35Y9R4"]
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 17,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/books/b0ddqfs1lc",
+        "name": "Slut med Windows!: Nu kommer Linux!",
+        "author": { "@type": "Person", "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "description": "Svenskspråkig vägledning för bytet från Windows till Linux och den praktiska användningen av Linux i vardagen.",
+        "inLanguage": "sv",
+        "datePublished": "2024-08-20",
+        "isbn": "979-8336352580",
+        "publisher": { "@type": "Organization", "name": "Independently published" },
+        "numberOfPages": 296,
+        "bookFormat": "https://schema.org/Paperback",
+        "url": "https://www.amazon.de/dp/B0DDQFS1LC",
+        "sameAs": ["https://www.amazon.de/dp/B0DDQFS1LC"]
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 18,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/books/b0f4kzwzn5",
+        "name": "Digitale Abhängigkeit: Wie verwundbar wir wirklich sind",
+        "author": { "@type": "Person", "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "description": "Analyse der Abhängigkeit von digitalen Diensten und Infrastrukturen sowie der daraus entstehenden persönlichen und gesellschaftlichen Verwundbarkeit.",
+        "inLanguage": "de",
+        "datePublished": "2025-04-10",
+        "numberOfPages": 55,
+        "bookFormat": "https://schema.org/EBook",
+        "url": "https://www.amazon.de/dp/B0F4KZWZN5",
+        "sameAs": ["https://www.amazon.de/dp/B0F4KZWZN5"]
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 19,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/books/b0djdd52m1",
+        "name": "The Mother of all AI Books: Understand Artificial Intelligence before it understands you – The ultimate guide for the future",
+        "author": { "@type": "Person", "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "description": "English-language introduction to the foundations, opportunities, risks and future implications of artificial intelligence.",
+        "inLanguage": "en",
+        "datePublished": "2024-10-02",
+        "isbn": "979-8340969620",
+        "publisher": { "@type": "Organization", "name": "Independently published" },
+        "numberOfPages": 377,
+        "bookFormat": "https://schema.org/Hardcover",
+        "url": "https://www.amazon.de/dp/B0DJDD52M1",
+        "sameAs": ["https://www.amazon.de/dp/B0DJDD52M1"]
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 20,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/books/b0dfvmjj3q",
+        "name": "Computer Security for Small and Medium-Sized Enterprises: Protecting Customer and Company Data",
+        "author": { "@type": "Person", "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "description": "English-language guide for small and medium-sized enterprises on protecting customer information, company data and IT systems.",
+        "inLanguage": "en",
+        "datePublished": "2024-08-31",
+        "isbn": "979-8337918150",
+        "publisher": { "@type": "Organization", "name": "Independently published" },
+        "numberOfPages": 159,
+        "bookFormat": "https://schema.org/Paperback",
+        "url": "https://www.amazon.de/dp/B0DFVMJJ3Q",
+        "sameAs": ["https://www.amazon.de/dp/B0DFVMJJ3Q"]
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 21,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/books/b0dh4y315g",
+        "name": "Proxmox VE 8 Proxmox BS 3 Professional Book: High Availability Cluster Setup (English Edition)",
+        "author": { "@type": "Person", "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "description": "English-language professional guide to building a high-availability environment with Proxmox VE 8 and Proxmox Backup Server 3.",
+        "inLanguage": "en",
+        "datePublished": "2024-09-15",
+        "numberOfPages": 221,
+        "bookFormat": "https://schema.org/EBook",
+        "url": "https://www.amazon.de/dp/B0DH4Y315G",
+        "sameAs": ["https://www.amazon.de/dp/B0DH4Y315G"]
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 22,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/books/b0dlk8dsnx",
+        "name": "Proxmox Firewall: Understand Activate Isolate (English Edition)",
+        "author": { "@type": "Person", "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "description": "English-language introduction to activating, understanding and configuring the Proxmox firewall across datacenter, node, VM and container levels.",
+        "inLanguage": "en",
+        "datePublished": "2024-10-30",
+        "numberOfPages": 122,
+        "bookFormat": "https://schema.org/EBook",
+        "url": "https://www.amazon.de/dp/B0DLK8DSNX",
+        "sameAs": ["https://www.amazon.de/dp/B0DLK8DSNX"]
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 23,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/books/b0dc132b12",
+        "name": "Proxmox VE 8 Guide Pratique: Informations, Astuces et Conseils pour Débutants et Utilisateurs Avancés de Proxmox",
+        "author": { "@type": "Person", "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "description": "Guide pratique en français consacré à l’installation, la configuration et l’utilisation de Proxmox VE 8 pour débutants et utilisateurs avancés.",
+        "inLanguage": "fr",
+        "datePublished": "2024-08-02",
+        "isbn": "979-8334811911",
+        "publisher": { "@type": "Organization", "name": "Independently published" },
+        "numberOfPages": 249,
+        "bookFormat": "https://schema.org/Paperback",
+        "url": "https://www.amazon.de/dp/B0DC132B12",
+        "sameAs": ["https://www.amazon.de/dp/B0DC132B12"]
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 24,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/books/b0drt4f9vz",
+        "name": "Proxmox VE 8 Practical Guide: Information, Tips, and Tricks for Proxmox Beginners and Advanced Users",
+        "author": { "@type": "Person", "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "description": "English-language practical guide with information, tips and operational guidance for Proxmox VE 8 beginners and advanced users.",
+        "inLanguage": "en",
+        "datePublished": "2024-12-28",
+        "isbn": "979-8305135398",
+        "publisher": { "@type": "Organization", "name": "Independently published" },
+        "numberOfPages": 400,
+        "bookFormat": "https://schema.org/Paperback",
+        "url": "https://www.amazon.de/dp/B0DRT4F9VZ",
+        "sameAs": ["https://www.amazon.de/dp/B0DRT4F9VZ"]
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 25,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/books/b0dbzx7kvm",
+        "name": "Proxmox VE 8 Practical Guide: Information, Tips, and Tricks for Proxmox Beginners and Advanced Users",
+        "author": { "@type": "Person", "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "description": "Earlier English-language practical edition covering installation, configuration and everyday administration of Proxmox VE 8.",
+        "inLanguage": "en",
+        "datePublished": "2024-08-02",
+        "isbn": "979-8334810426",
+        "publisher": { "@type": "Organization", "name": "Independently published" },
+        "numberOfPages": 226,
+        "bookFormat": "https://schema.org/Paperback",
+        "url": "https://www.amazon.de/dp/B0DBZX7KVM",
+        "sameAs": ["https://www.amazon.de/dp/B0DBZX7KVM"]
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "@context": "https://schema.org",
+  "@id": "https://knowledge.ralf-peter-kleinert.de/security.json",
+  "@type": "DigitalDocument",
+  "name": "Sicherheits- und Authentizitätshinweise für Inhalte von Ralf-Peter Kleinert / ComputerRalle",
+  "url": "https://knowledge.ralf-peter-kleinert.de/security.json",
+  "inLanguage": "de",
+  "datePublished": "2026-07-29",
+  "dateModified": "2026-07-29",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://knowledge.ralf-peter-kleinert.de/computerralle-Logo-Final-2026_4000x4000-2048x2048.webp",
+    "contentUrl": "https://knowledge.ralf-peter-kleinert.de/computerralle-Logo-Final-2026_4000x4000-2048x2048.webp",
+    "caption": "ComputerRalle-Logo von Ralf-Peter Kleinert und DIGITAL-easy"
+  },
+  "author": {
+    "@type": "Person",
+    "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert",
+    "name": "Ralf-Peter Kleinert",
+    "alternateName": "ComputerRalle"
+  },
+  "publisher": {
+    "@id": "https://knowledge.ralf-peter-kleinert.de/#digital-easy"
+  },
+  "description": "Offizielle Sicherheitsrichtlinie zu vertrauenswürdigen Downloads, Veröffentlichungsquellen sowie zur Echtheit von Text-, Bild-, Audio-, Sprach- und Videoinhalten von Ralf-Peter Kleinert / ComputerRalle / DIGITAL-easy.",
+  "text": "Ralf-Peter Kleinert empfiehlt, seine Software, Bücher, PDFs, Dokumente, Bilder, Audio- und Videodateien ausschließlich über seine offiziellen Websites, Profile, Shops oder von dort direkt verlinkte Veröffentlichungsangebote zu beziehen. Dateien und Medien auf fremden, nicht offiziell zugeordneten Websites können veraltet, unvollständig, manipuliert oder mit Schadsoftware versehen sein. Video-, Bild- und Sprachaufnahmen sind nur dann als authentische Veröffentlichungen von Ralf-Peter Kleinert beziehungsweise ComputerRalle einzustufen, wenn sie auf einem offiziell bestätigten Kanal veröffentlicht oder von einem solchen Kanal eindeutig verlinkt wurden. Diese Herkunftsprüfung ist ein wichtiger Vertrauensindikator, ersetzt aber keine technische Sicherheitsprüfung.",
+  "usageInfo": "https://knowledge.ralf-peter-kleinert.de/security.md",
+  "about": [
+    "Informationssicherheit",
+    "Softwaresicherheit",
+    "Download-Sicherheit",
+    "Quellenprüfung",
+    "Authentizität",
+    "Deepfakes",
+    "Manipulierte Medien",
+    "Schadsoftware",
+    "Phishing"
+  ],
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Offizielle Quellen für Downloads und Veröffentlichungen",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Offizieller Downloadbereich",
+        "url": "https://downloads.ralf-peter-kleinert.de/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Offizielle Hauptwebsite",
+        "url": "https://ralf-peter-kleinert.de/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Offizieller Blog",
+        "url": "https://blog.ralf-peter-kleinert.de/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Offizielle ComputerRalle-Website",
+        "url": "https://computerralle.de/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "name": "Offizieller YouTube-Kanal",
+        "url": "https://www.youtube.com/@ComputerRalle"
+      },
+      {
+        "@type": "ListItem",
+        "position": 6,
+        "name": "Offizielle Amazon-Autorenseite",
+        "url": "https://www.amazon.de/stores/Ralf-Peter-Kleinert-RPK/author/B0D6FVWCTN"
+      },
+      {
+        "@type": "ListItem",
+        "position": 7,
+        "name": "Vollständiges Verzeichnis bestätigter Webauftritte",
+        "url": "https://knowledge.ralf-peter-kleinert.de/webauftritte.json"
+      }
+    ]
+  },
+  "citation": [
+    "https://knowledge.ralf-peter-kleinert.de/webauftritte.json",
+    "https://knowledge.ralf-peter-kleinert.de/books.json",
+    "https://knowledge.ralf-peter-kleinert.de/videos.json",
+    "https://knowledge.ralf-peter-kleinert.de/publications.json"
+  ]
+}

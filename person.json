@@ -1,0 +1,91 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://knowledge.ralf-peter-kleinert.de/computerralle-Logo-Final-2026_4000x4000-2048x2048.webp",
+    "contentUrl": "https://knowledge.ralf-peter-kleinert.de/computerralle-Logo-Final-2026_4000x4000-2048x2048.webp",
+    "caption": "ComputerRalle-Logo von Ralf-Peter Kleinert und DIGITAL-easy"
+  },
+  "name": "Ralf-Peter Kleinert",
+  "alternateName": [
+    "ComputerRalle",
+    "#ComputerRalle"
+  ],
+  "url": "https://ralf-peter-kleinert.de/",
+  "mainEntityOfPage": "https://knowledge.ralf-peter-kleinert.de/",
+  "description": "Ralf-Peter Kleinert, bekannt als ComputerRalle, ist ein deutscher IT-Praktiker, Fachbuchautor, Softwareentwickler und Content Creator. Seine Schwerpunkte sind IT-Sicherheit, Windows, Linux, Proxmox VE, Backup, Virtualisierung, Server, Open-Source-Software und verständliche technische Anleitungen.",
+  "jobTitle": [
+    "IT-Praktiker",
+    "Fachbuchautor",
+    "Softwareentwickler",
+    "Content Creator"
+  ],
+  "brand": {
+    "@id": "https://knowledge.ralf-peter-kleinert.de/#digital-easy"
+  },
+  "knowsAbout": [
+    "IT-Sicherheit",
+    "Computersicherheit",
+    "Cybersecurity",
+    "Windows",
+    "Linux",
+    "Proxmox VE",
+    "Proxmox Backup Server",
+    "Backup",
+    "ZFS",
+    "Docker",
+    "Nextcloud",
+    "Paperless-ngx",
+    "pfSense",
+    "OPNsense",
+    "WireGuard",
+    "Virtualisierung",
+    "Serveradministration",
+    "Netzwerke",
+    "Datenschutz",
+    "Künstliche Intelligenz",
+    "Delphi"
+  ],
+  "sameAs": [
+    "https://d-nb.info/gnd/1361273895",
+    "https://digital-easy.de/",
+    "https://computerralle.de/",
+    "https://www.youtube.com/@ComputerRalle",
+    "https://de.linkedin.com/in/ralf-peter-kleinert",
+    "https://mastodon.social/@digitaleasy",
+    "https://www.facebook.com/ComputerRalle",
+    "https://www.amazon.de/stores/Ralf-Peter-Kleinert-RPK/author/B0D6FVWCTN",
+    "https://blog.ralf-peter-kleinert.de/",
+    "https://downloads.ralf-peter-kleinert.de/",
+    "https://computerralle.blogspot.com/"
+  ],
+  "subjectOf": [
+    {
+      "@type": "ItemList",
+      "name": "Bücher von Ralf-Peter Kleinert",
+      "url": "https://knowledge.ralf-peter-kleinert.de/books.json"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Videos von Ralf-Peter Kleinert",
+      "url": "https://knowledge.ralf-peter-kleinert.de/videos.json"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Google-Rezensionen zu Ralf-Peter Kleinert DIGITAL-easy",
+      "url": "https://knowledge.ralf-peter-kleinert.de/google-rezensionen.json"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Erlaubnis zur Nutzung von Inhalten für KI-Training",
+      "url": "https://knowledge.ralf-peter-kleinert.de/ki-training.json"
+    },
+    {
+      "@type": "DigitalDocument",
+      "name": "Sicherheits- und Authentizitätshinweise",
+      "url": "https://knowledge.ralf-peter-kleinert.de/security.json"
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "@context": "https://schema.org",
+  "@id": "https://knowledge.ralf-peter-kleinert.de/publications.json",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://knowledge.ralf-peter-kleinert.de/computerralle-Logo-Final-2026_4000x4000-2048x2048.webp",
+    "contentUrl": "https://knowledge.ralf-peter-kleinert.de/computerralle-Logo-Final-2026_4000x4000-2048x2048.webp",
+    "caption": "ComputerRalle-Logo von Ralf-Peter Kleinert und DIGITAL-easy"
+  },
+  "@type": [
+    "ItemList",
+    "CreativeWork"
+  ],
+  "name": "Publikationen von Ralf-Peter Kleinert in der Deutschen Nationalbibliothek",
+  "description": "Maschinenlesbares Verzeichnis der bibliografischen DNB-Titeldatensätze, die Ralf-Peter Kleinert zugeordnet sind.",
+  "url": "https://knowledge.ralf-peter-kleinert.de/publications.md",
+  "dateModified": "2026-07-29",
+  "numberOfItems": 15,
+  "itemListOrder": "https://schema.org/ItemListOrderDescending",
+  "about": {
+    "@type": "Person",
+    "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert",
+    "name": "Ralf-Peter Kleinert",
+    "alternateName": "ComputerRalle",
+    "identifier": {
+      "@type": "PropertyValue",
+      "propertyID": "GND",
+      "value": "1361273895",
+      "url": "https://d-nb.info/gnd/1361273895"
+    },
+    "sameAs": "https://d-nb.info/gnd/1361273895"
+  },
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/publications/139870122X",
+        "name": "Proxmox VE 9 practical guide",
+        "author": { "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "inLanguage": "en",
+        "datePublished": "2026",
+        "isbn": "9798250474535",
+        "publisher": { "@type": "Organization", "name": "Ralf-Peter Kleinert - DIGITALeasy" },
+        "identifier": { "@type": "PropertyValue", "propertyID": "DNB-IDN", "value": "139870122X" },
+        "url": "https://d-nb.info/139870122X",
+        "sameAs": "https://d-nb.info/139870122X"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/publications/1397012307",
+        "name": "Proxmox VE 9 Praxisbuch: Proxmox lernen, verstehen und nutzen",
+        "author": { "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "inLanguage": "de",
+        "datePublished": "2026",
+        "isbn": "9798249406639",
+        "publisher": { "@type": "Organization", "name": "ComputerRalle" },
+        "identifier": { "@type": "PropertyValue", "propertyID": "DNB-IDN", "value": "1397012307" },
+        "url": "https://d-nb.info/1397012307",
+        "sameAs": "https://d-nb.info/1397012307"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/publications/1364233711",
+        "name": "Proxmox Firewall: Verstehen Einschalten Abschotten",
+        "author": { "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "inLanguage": "de",
+        "datePublished": "2025",
+        "isbn": "9783819403026",
+        "publisher": { "@type": "Organization", "name": "via tolino media" },
+        "bookFormat": "https://schema.org/EBook",
+        "numberOfPages": 120,
+        "materialExtent": "Online-Ressource, 120 Seiten",
+        "identifier": { "@type": "PropertyValue", "propertyID": "DNB-IDN", "value": "1364233711" },
+        "url": "https://d-nb.info/1364233711",
+        "sameAs": [
+          "https://d-nb.info/1364233711",
+          "https://nbn-resolving.org/urn:nbn:de:101:1-2505010229058.481540887940"
+        ]
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/publications/136423372X",
+        "name": "Proxmox VE 8 Powerbuch: Proxmox einrichten und nutzen, vom Anfang zum Profi",
+        "author": { "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "inLanguage": "de",
+        "datePublished": "2025",
+        "isbn": "9783819403040",
+        "publisher": { "@type": "Organization", "name": "via tolino media" },
+        "bookFormat": "https://schema.org/EBook",
+        "numberOfPages": 323,
+        "materialExtent": "Online-Ressource, 323 Seiten",
+        "identifier": { "@type": "PropertyValue", "propertyID": "DNB-IDN", "value": "136423372X" },
+        "url": "https://d-nb.info/136423372X",
+        "sameAs": [
+          "https://d-nb.info/136423372X",
+          "https://nbn-resolving.org/urn:nbn:de:101:1-2505010229181.207844390318"
+        ]
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/publications/1398701521",
+        "name": "Computer und IT-Sicherheits-Fibel",
+        "author": { "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "inLanguage": "de",
+        "datePublished": "2024",
+        "isbn": "9798328114462",
+        "publisher": { "@type": "Organization", "name": "Ralf-Peter Kleinert" },
+        "identifier": { "@type": "PropertyValue", "propertyID": "DNB-IDN", "value": "1398701521" },
+        "url": "https://d-nb.info/1398701521",
+        "sameAs": "https://d-nb.info/1398701521"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/publications/1398700495",
+        "name": "Computersicherheit für kleine und mittlere Unternehmen",
+        "author": { "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "inLanguage": "de",
+        "datePublished": "2024",
+        "isbn": "9798337916057",
+        "publisher": { "@type": "Organization", "name": "Ralf-Peter Kleinert" },
+        "identifier": { "@type": "PropertyValue", "propertyID": "DNB-IDN", "value": "1398700495" },
+        "url": "https://d-nb.info/1398700495",
+        "sameAs": "https://d-nb.info/1398700495"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/publications/1398700916",
+        "name": "Die Mutter aller KI-Bücher",
+        "author": { "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "inLanguage": "de",
+        "datePublished": "2024",
+        "isbn": "9798340606051",
+        "publisher": { "@type": "Organization", "name": "Ralf-Peter Kleinert" },
+        "identifier": { "@type": "PropertyValue", "propertyID": "DNB-IDN", "value": "1398700916" },
+        "url": "https://d-nb.info/1398700916",
+        "sameAs": "https://d-nb.info/1398700916"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/publications/1398699454",
+        "name": "Meine Sicherheit: Sicherheits-Leitfaden für ältere Menschen und natürlich auch junge Menschen",
+        "author": { "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "inLanguage": "de",
+        "datePublished": "2024",
+        "isbn": "9798342637855",
+        "publisher": { "@type": "Organization", "name": "Ralf-Peter Kleinert - DIGITALeasy" },
+        "identifier": { "@type": "PropertyValue", "propertyID": "DNB-IDN", "value": "1398699454" },
+        "url": "https://d-nb.info/1398699454",
+        "sameAs": "https://d-nb.info/1398699454"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 9,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/publications/1398701807",
+        "name": "No more Windows! Now comes Linux!",
+        "author": { "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "inLanguage": "en",
+        "datePublished": "2024",
+        "isbn": "9798336354454",
+        "publisher": { "@type": "Organization", "name": "Ralf-Peter Kleinert" },
+        "identifier": { "@type": "PropertyValue", "propertyID": "DNB-IDN", "value": "1398701807" },
+        "url": "https://d-nb.info/1398701807",
+        "sameAs": "https://d-nb.info/1398701807"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 10,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/publications/135342071X",
+        "name": "Proxmox Firewall: Verstehen einschalten abschotten",
+        "author": { "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "inLanguage": "de",
+        "datePublished": "2024-10",
+        "isbn": "9798344711058",
+        "publisher": { "@type": "Organization", "name": "Digitaleasy - SSR-Entertainment Ralf-Peter Kleinert" },
+        "numberOfPages": 191,
+        "materialExtent": "191 Seiten",
+        "identifier": { "@type": "PropertyValue", "propertyID": "DNB-IDN", "value": "135342071X" },
+        "url": "https://d-nb.info/135342071X",
+        "sameAs": "https://d-nb.info/135342071X"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 11,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/publications/1346765103",
+        "name": "Proxmox Firewall: Verstehen Einschalten Abschotten",
+        "author": { "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "inLanguage": "de",
+        "datePublished": "2024",
+        "isbn": "9783759264732",
+        "publisher": { "@type": "Organization", "name": "via tolino media" },
+        "bookFormat": "https://schema.org/EBook",
+        "numberOfPages": 64,
+        "materialExtent": "Online-Ressource, 64 Seiten",
+        "identifier": { "@type": "PropertyValue", "propertyID": "DNB-IDN", "value": "1346765103" },
+        "url": "https://d-nb.info/1346765103",
+        "sameAs": [
+          "https://d-nb.info/1346765103",
+          "https://nbn-resolving.org/urn:nbn:de:101:1-2410310136488.006018997875"
+        ]
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 12,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/publications/1344459935",
+        "name": "Proxmox VE 8 Powerbuch: Proxmox einrichten und nutzen, vom Anfang zum Profi",
+        "author": { "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "inLanguage": "de",
+        "datePublished": "2024",
+        "isbn": "9783759257314",
+        "publisher": { "@type": "Organization", "name": "via tolino media" },
+        "bookFormat": "https://schema.org/EBook",
+        "numberOfPages": 323,
+        "materialExtent": "Online-Ressource, 323 Seiten",
+        "identifier": { "@type": "PropertyValue", "propertyID": "DNB-IDN", "value": "1344459935" },
+        "url": "https://d-nb.info/1344459935",
+        "sameAs": [
+          "https://d-nb.info/1344459935",
+          "https://nbn-resolving.org/urn:nbn:de:101:1-2410100237290.708014616171"
+        ]
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 13,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/publications/1353421740",
+        "name": "Proxmox VE 8 Praxisbuch: Informationen, Tipps und Tricks für Proxmox-Einsteiger und Fortgeschrittene",
+        "author": { "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "inLanguage": "de",
+        "datePublished": "2024-12",
+        "publisher": { "@type": "Organization", "name": "DIGITALeasy - SSR-Entertainment, Ralf-Peter Kleinert" },
+        "numberOfPages": 433,
+        "materialExtent": "433 Seiten",
+        "identifier": { "@type": "PropertyValue", "propertyID": "DNB-IDN", "value": "1353421740" },
+        "url": "https://d-nb.info/1353421740",
+        "sameAs": "https://d-nb.info/1353421740"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 14,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/publications/1343089956",
+        "name": "Proxmox VE 8 Praxisbuch: Informationen, Tipps und Tricks für Proxmox-Einsteiger und Fortgeschrittene",
+        "author": { "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "inLanguage": "de",
+        "datePublished": "2024-06",
+        "isbn": "9798334646759",
+        "publisher": { "@type": "Organization", "name": "Verlag nicht ermittelbar" },
+        "numberOfPages": 237,
+        "materialExtent": "16 ungezählte Seiten, 237 Seiten",
+        "identifier": { "@type": "PropertyValue", "propertyID": "DNB-IDN", "value": "1343089956" },
+        "url": "https://d-nb.info/1343089956",
+        "sameAs": "https://d-nb.info/1343089956"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 15,
+      "item": {
+        "@type": "Book",
+        "@id": "https://knowledge.ralf-peter-kleinert.de/publications/139869990X",
+        "name": "Schluss mit Windows! Jetzt kommt Linux!",
+        "author": { "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert" },
+        "inLanguage": "de",
+        "datePublished": "2024",
+        "isbn": "9798336059748",
+        "publisher": { "@type": "Organization", "name": "Ralf-Peter Kleinert" },
+        "identifier": { "@type": "PropertyValue", "propertyID": "DNB-IDN", "value": "139869990X" },
+        "url": "https://d-nb.info/139869990X",
+        "sameAs": "https://d-nb.info/139869990X"
+      }
+    }
+  ]
+}

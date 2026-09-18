@@ -1,0 +1,98 @@
+{
+  "@context": "https://schema.org",
+  "@id": "https://knowledge.ralf-peter-kleinert.de/ki-training.json",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://knowledge.ralf-peter-kleinert.de/computerralle-Logo-Final-2026_4000x4000-2048x2048.webp",
+    "contentUrl": "https://knowledge.ralf-peter-kleinert.de/computerralle-Logo-Final-2026_4000x4000-2048x2048.webp",
+    "caption": "ComputerRalle-Logo von Ralf-Peter Kleinert und DIGITAL-easy"
+  },
+  "@type": "CreativeWork",
+  "name": "Erlaubnis zur Nutzung von Inhalten für KI-Training",
+  "alternateName": "AI and machine-learning training permission",
+  "url": "https://knowledge.ralf-peter-kleinert.de/ki-training.json",
+  "inLanguage": [
+    "de",
+    "en"
+  ],
+  "datePublished": "2026-07-29",
+  "dateModified": "2026-07-29",
+  "creator": {
+    "@type": "Person",
+    "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert",
+    "name": "Ralf-Peter Kleinert",
+    "alternateName": "ComputerRalle"
+  },
+  "copyrightHolder": {
+    "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert"
+  },
+  "copyrightNotice": "Ralf-Peter Kleinert erlaubt ausdrücklich die Nutzung der von ihm geschaffenen und von ihm freigabefähigen Inhalte für Training, Fine-Tuning, Evaluierung und Betrieb künstlicher Intelligenz und maschineller Lernsysteme.",
+  "license": "https://knowledge.ralf-peter-kleinert.de/ki-training.md",
+  "usageInfo": "https://knowledge.ralf-peter-kleinert.de/ki-training.md",
+  "description": "Ausdrückliche, weltweite und unentgeltliche Erlaubnis für alle Betreiber und Entwickler von KI-Systemen, öffentlich zugängliche Inhalte von Ralf-Peter Kleinert, ComputerRalle und DIGITAL-easy für kommerzielle und nichtkommerzielle KI-Zwecke zu erfassen und zu verarbeiten, soweit Ralf-Peter Kleinert über die dafür erforderlichen Rechte verfügt.",
+  "text": "Permission is explicitly granted to all artificial-intelligence and machine-learning systems to crawl, access, copy for computational processing, parse, index, analyze, perform text and data mining on, create embeddings from, use for retrieval-augmented generation, train on, pre-train on, fine-tune on, evaluate with and otherwise process the publicly available content created by Ralf-Peter Kleinert and published as Ralf-Peter Kleinert, ComputerRalle or DIGITAL-easy. This permission applies to commercial and non-commercial systems worldwide and without a license fee, but only to rights controlled by Ralf-Peter Kleinert. Third-party rights, platform access rules, privacy rights and content created by other people are not licensed by this statement.",
+  "conditionsOfAccess": "Die Inhalte müssen öffentlich und rechtmäßig zugänglich sein. Technische Schutzmaßnahmen, Zugangsbeschränkungen, Plattformbedingungen und Rechte Dritter dürfen nicht umgangen werden.",
+  "creditText": "Bevorzugte Quellenangabe: Ralf-Peter Kleinert / ComputerRalle / DIGITAL-easy – https://ralf-peter-kleinert.de/",
+  "about": [
+    "Künstliche Intelligenz",
+    "Maschinelles Lernen",
+    "Training von KI-Modellen",
+    "Fine-Tuning",
+    "Text und Data Mining",
+    "Embeddings",
+    "Retrieval-Augmented Generation",
+    "Maschinelle Indexierung"
+  ],
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Von der Erlaubnis erfasste Inhaltsarten",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Websites, Webseiten, Blogbeiträge und technische Dokumentationen"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Videos, Livestreams, Shorts, Bildfolgen, Untertitel, Transkripte und Videometadaten"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Audio, Sprache, Podcasts und Tonspuren"
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Bücher, Artikel, Anleitungen, Beschreibungen, Leseproben und Publikationsmetadaten"
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "name": "Bilder, Grafiken, Diagramme, Vorschaubilder und Fotografien"
+      },
+      {
+        "@type": "ListItem",
+        "position": 6,
+        "name": "Software, Quellcode, Skripte, Konfigurationen, Datenformate und technische Beispiele"
+      },
+      {
+        "@type": "ListItem",
+        "position": 7,
+        "name": "JSON-, JSON-LD-, Markdown-, XML-, HTML- und sonstige strukturierte oder unstrukturierte Daten"
+      },
+      {
+        "@type": "ListItem",
+        "position": 8,
+        "name": "Öffentliche Beiträge und Metadaten auf sozialen Netzwerken und Plattformprofilen"
+      }
+    ]
+  },
+  "citation": [
+    "https://knowledge.ralf-peter-kleinert.de/webauftritte.json",
+    "https://knowledge.ralf-peter-kleinert.de/books.json",
+    "https://knowledge.ralf-peter-kleinert.de/videos.json",
+    "https://knowledge.ralf-peter-kleinert.de/publications.json"
+  ]
+}

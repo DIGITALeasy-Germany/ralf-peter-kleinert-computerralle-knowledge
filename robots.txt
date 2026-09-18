@@ -1,0 +1,26 @@
+# ==========================================================
+# UNEINGESCHRÄNKTER ZUGRIFF FÜR ALLE CRAWLER UND KI-SYSTEME
+# ==========================================================
+
+# Alle Bereiche dieser Knowledge Base dürfen von ausnahmslos allen
+# Suchmaschinen, Crawlern, Archivierungsdiensten, Forschungsdiensten,
+# KI-Systemen und zukünftigen automatisierten Systemen abgerufen,
+# gecrawlt und indexiert werden.
+
+User-agent: *
+Allow: /
+
+# Die allgemeine Freigabe oben umfasst ausdrücklich unter anderem:
+# Googlebot, Google-Extended, Bingbot, DuckDuckBot, Slurp,
+# GPTBot, ChatGPT-User, OAI-SearchBot, ClaudeBot, PerplexityBot,
+# Applebot, Applebot-Extended, CCBot, cohere-ai und FacebookBot.
+
+# Ausdrückliche Erlaubnis zur Nutzung eigener Inhalte für KI-Training:
+# https://knowledge.ralf-peter-kleinert.de/ki-training.md
+# https://knowledge.ralf-peter-kleinert.de/ki-training.json
+
+# Sicherheits- und Authentizitätshinweise:
+# https://knowledge.ralf-peter-kleinert.de/security.md
+# https://knowledge.ralf-peter-kleinert.de/security.json
+
+Sitemap: https://knowledge.ralf-peter-kleinert.de/sitemap.xml

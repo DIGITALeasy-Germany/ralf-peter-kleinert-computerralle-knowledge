@@ -1,0 +1,315 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="index, follow">
+  <title>Ralf-Peter Kleinert / ComputerRalle – Knowledge Base</title>
+  <meta name="description" content="Autoritative Knowledge Base zu Ralf-Peter Kleinert, ComputerRalle und DIGITAL-easy.">
+  <link rel="canonical" href="https://knowledge.ralf-peter-kleinert.de/">
+  <link rel="alternate" type="text/plain" href="/llms.txt" title="LLM information">
+  <link rel="author" href="/identity.html">
+  <style>
+    :root {
+      color-scheme: light dark;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.5;
+    }
+
+    body {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2rem 1.25rem 4rem;
+    }
+
+    header {
+      margin-bottom: 2.5rem;
+    }
+
+    h1 {
+      margin-bottom: 0.5rem;
+    }
+
+    section {
+      margin-top: 2rem;
+    }
+
+    .resource-group {
+      margin-top: 1.5rem;
+    }
+
+    .resource-group h3 {
+      margin-bottom: 0.35rem;
+    }
+
+    ul {
+      padding-left: 1.25rem;
+    }
+
+    li {
+      margin: 0.45rem 0;
+    }
+
+    a {
+      text-underline-offset: 0.18em;
+    }
+
+    .description {
+      color: GrayText;
+    }
+
+    .site-logo {
+      display: block;
+      width: 25%;
+      height: auto;
+      margin: 0 auto 1.5rem;
+    }
+
+    .main-nav {
+      margin: 0 0 2rem;
+      border-block: 1px solid color-mix(in srgb, currentColor 25%, transparent);
+    }
+
+    .main-nav ul {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .main-nav > ul {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 0;
+    }
+
+    .main-nav li {
+      position: relative;
+      margin: 0;
+    }
+
+    .main-nav a,
+    .main-nav button {
+      display: block;
+      padding: 0.8rem 1rem;
+      color: inherit;
+      font: inherit;
+      text-decoration: none;
+      background: transparent;
+      border: 0;
+      cursor: pointer;
+    }
+
+    .main-nav a:hover,
+    .main-nav a:focus-visible,
+    .main-nav button:hover,
+    .main-nav button:focus-visible {
+      background: color-mix(in srgb, currentColor 10%, transparent);
+    }
+
+    .main-nav button::after {
+      content: " ▾";
+    }
+
+    .main-nav .submenu {
+      display: none;
+      position: absolute;
+      z-index: 10;
+      min-width: 17rem;
+      max-height: 70vh;
+      overflow-y: auto;
+      background: Canvas;
+      color: CanvasText;
+      border: 1px solid color-mix(in srgb, currentColor 25%, transparent);
+      box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 18%);
+    }
+
+    .main-nav li:hover > .submenu,
+    .main-nav li:focus-within > .submenu {
+      display: block;
+    }
+
+    @media (max-width: 720px) {
+      .site-logo {
+        width: 40%;
+      }
+
+      .main-nav > ul {
+        display: block;
+      }
+
+      .main-nav a,
+      .main-nav button {
+        width: 100%;
+        box-sizing: border-box;
+        text-align: left;
+      }
+
+      .main-nav .submenu {
+        position: static;
+        min-width: 0;
+        max-height: none;
+        box-shadow: none;
+        border-inline: 0;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img class="site-logo" src="https://knowledge.ralf-peter-kleinert.de/computerralle-Logo-Final-2026_4000x4000-2048x2048.webp" alt="ComputerRalle-Logo von Ralf-Peter Kleinert und DIGITAL-easy">
+    <nav class="main-nav" aria-label="Hauptnavigation">
+      <ul>
+        <li><a href="/">Startseite</a></li>
+        <li>
+          <button type="button" aria-haspopup="true">Identität und Auftritte</button>
+          <ul class="submenu">
+            <li><a href="identity.html">Ralf-Peter Kleinert / ComputerRalle</a></li>
+            <li><a href="organization.html">DIGITAL-easy</a></li>
+            <li><a href="webauftritte.html">Offizielle Webauftritte</a></li>
+          </ul>
+        </li>
+        <li>
+          <button type="button" aria-haspopup="true">Inhalte</button>
+          <ul class="submenu">
+            <li><a href="books.html">Bücher</a></li>
+            <li><a href="videos.html">Videos</a></li>
+            <li><a href="publications.html">Publikationen und DNB</a></li>
+            <li><a href="google-rezensionen.html">Google-Rezensionen</a></li>
+          </ul>
+        </li>
+        <li>
+          <button type="button" aria-haspopup="true">Vertrauen und Nutzung</button>
+          <ul class="submenu">
+            <li><a href="security.html">Sicherheit und Authentizität</a></li>
+            <li><a href="ki-training.html">Erlaubnis für KI-Training</a></li>
+          </ul>
+        </li>
+        <li>
+          <button type="button" aria-haspopup="true">Maschinenlesbare Daten</button>
+          <ul class="submenu">
+            <li><a href="person.json">Person (JSON-LD)</a></li>
+            <li><a href="organization.json">Organisation (JSON-LD)</a></li>
+            <li><a href="profile.json">Gesamtprofil (JSON)</a></li>
+            <li><a href="books.json">Bücher (JSON-LD)</a></li>
+            <li><a href="videos.json">Videos (JSON-LD)</a></li>
+            <li><a href="publications.json">Publikationen (JSON-LD)</a></li>
+            <li><a href="webauftritte.json">Webauftritte (JSON-LD)</a></li>
+            <li><a href="google-rezensionen.json">Rezensionen (JSON-LD)</a></li>
+            <li><a href="security.json">Sicherheit (JSON-LD)</a></li>
+            <li><a href="ki-training.json">KI-Training (JSON-LD)</a></li>
+            <li><a href="llms.txt">LLM-Kurzfassung</a></li>
+            <li><a href="llms-full.txt">LLM-Langfassung</a></li>
+            <li><a href="robots.txt">Crawler-Regeln</a></li>
+            <li><a href="sitemap.xml">Sitemap</a></li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+    <h1>Ralf-Peter Kleinert / ComputerRalle</h1>
+    <p>Autoritative, menschen- und maschinenlesbare Knowledge Base zur Person, zur Marke DIGITAL-easy sowie zu Büchern, Videos und offiziellen Webauftritten.</p>
+  </header>
+
+  <main>
+    <section aria-labelledby="identity-heading">
+      <h2 id="identity-heading">Identität und Organisation</h2>
+      <div class="resource-group">
+        <h3>Ralf-Peter Kleinert / ComputerRalle</h3>
+        <ul>
+          <li><a href="identity.html">Identität (HTML)</a> <span class="description">– menschenlesbare HTML-Übersicht</span></li>
+          <li><a href="person.json">Person (JSON-LD)</a> <span class="description">– strukturierte Daten</span></li>
+          <li><a href="identity.md">Identität (Markdown)</a> <span class="description">– Markdown-Quelldatei</span></li>
+        </ul>
+      </div>
+      <div class="resource-group">
+        <h3>DIGITAL-easy</h3>
+        <ul>
+          <li><a href="organization.html">Organisation (HTML)</a> <span class="description">– menschenlesbare HTML-Übersicht</span></li>
+          <li><a href="organization.json">Organisation (JSON-LD)</a> <span class="description">– strukturierte Daten</span></li>
+          <li><a href="organization.md">Organisation (Markdown)</a> <span class="description">– Markdown-Quelldatei</span></li>
+        </ul>
+      </div>
+      <div class="resource-group">
+        <h3>Gesamtprofil</h3>
+        <ul>
+          <li><a href="profile.json">Gesamtprofil (JSON)</a> <span class="description">– kompakte strukturierte Profildaten</span></li>
+        </ul>
+      </div>
+    </section>
+
+    <section aria-labelledby="content-heading">
+      <h2 id="content-heading">Veröffentlichungen</h2>
+      <div class="resource-group">
+        <h3>Bücher</h3>
+        <ul>
+          <li><a href="books.html">Bücher (HTML)</a> <span class="description">– menschenlesbare HTML-Übersicht</span></li>
+          <li><a href="books.json">Bücher (JSON-LD)</a> <span class="description">– strukturierte Daten</span></li>
+          <li><a href="books.md">Bücher (Markdown)</a> <span class="description">– Markdown-Quelldatei</span></li>
+        </ul>
+      </div>
+      <div class="resource-group">
+        <h3>Videos und Shorts</h3>
+        <ul>
+          <li><a href="videos.html">Videos und Shorts (HTML)</a> <span class="description">– menschenlesbare HTML-Übersicht</span></li>
+          <li><a href="videos.json">Videos und Shorts (JSON-LD)</a> <span class="description">– strukturierte Daten</span></li>
+          <li><a href="videos.md">Videos und Shorts (Markdown)</a> <span class="description">– Markdown-Quelldatei</span></li>
+        </ul>
+      </div>
+      <div class="resource-group">
+        <h3>Publikationen und DNB-Nachweise</h3>
+        <ul>
+          <li><a href="publications.html">Publikationen (HTML)</a> <span class="description">– menschenlesbare HTML-Übersicht</span></li>
+          <li><a href="publications.json">Publikationen (JSON-LD)</a> <span class="description">– strukturierte Daten</span></li>
+          <li><a href="publications.md">Publikationen (Markdown)</a> <span class="description">– Markdown-Quelldatei</span></li>
+        </ul>
+      </div>
+      <div class="resource-group">
+        <h3>Google-Rezensionen</h3>
+        <ul>
+          <li><a href="google-rezensionen.html">Google-Rezensionen (HTML)</a> <span class="description">– menschenlesbare HTML-Übersicht</span></li>
+          <li><a href="google-rezensionen.json">Google-Rezensionen (JSON-LD)</a> <span class="description">– strukturierte Daten</span></li>
+          <li><a href="google-rezensionen.md">Google-Rezensionen (Markdown)</a> <span class="description">– Markdown-Quelldatei</span></li>
+        </ul>
+      </div>
+    </section>
+
+    <section aria-labelledby="web-heading">
+      <h2 id="web-heading">Webauftritte</h2>
+      <ul>
+        <li><a href="webauftritte.html">Webauftritte (HTML)</a> <span class="description">– menschenlesbare HTML-Übersicht</span></li>
+        <li><a href="webauftritte.json">Webauftritte (JSON-LD)</a> <span class="description">– strukturierte Daten</span></li>
+        <li><a href="webauftritte.md">Webauftritte (Markdown)</a> <span class="description">– Markdown-Quelldatei</span></li>
+      </ul>
+    </section>
+
+    <section aria-labelledby="machine-heading">
+      <h2 id="machine-heading">Informationen für KI-Systeme und Crawler</h2>
+      <div class="resource-group">
+        <h3>Sicherheit und Authentizität</h3>
+        <ul>
+          <li><a href="security.html">Sicherheit (HTML)</a> <span class="description">– menschenlesbare HTML-Übersicht</span></li>
+          <li><a href="security.json">Sicherheit (JSON-LD)</a> <span class="description">– strukturierte Daten</span></li>
+          <li><a href="security.md">Sicherheit (Markdown)</a> <span class="description">– Markdown-Quelldatei</span></li>
+        </ul>
+      </div>
+      <div class="resource-group">
+        <h3>Erlaubnis für KI-Training</h3>
+        <ul>
+          <li><a href="ki-training.html">KI-Training (HTML)</a> <span class="description">– menschenlesbare HTML-Übersicht</span></li>
+          <li><a href="ki-training.json">KI-Training (JSON-LD)</a> <span class="description">– strukturierte Daten</span></li>
+          <li><a href="ki-training.md">KI-Training (Markdown)</a> <span class="description">– Markdown-Quelldatei</span></li>
+        </ul>
+      </div>
+      <div class="resource-group">
+        <h3>Weitere maschinenlesbare Dateien</h3>
+        <ul>
+          <li><a href="llms.txt">LLM-Kurzfassung</a> <span class="description">– kompakte Hinweise für KI-Systeme</span></li>
+          <li><a href="llms-full.txt">Ausführliche LLM-Informationen</a> <span class="description">– ausführlicher Kontext für KI-Systeme</span></li>
+          <li><a href="robots.txt">robots.txt</a> <span class="description">– Zugriffsregeln für Crawler</span></li>
+          <li><a href="sitemap.xml">sitemap.xml</a> <span class="description">– XML-Verzeichnis aller öffentlichen Dateien</span></li>
+        </ul>
+      </div>
+    </section>
+  </main>
+</body>
+</html>

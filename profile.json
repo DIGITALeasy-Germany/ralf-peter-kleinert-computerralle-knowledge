@@ -1,0 +1,74 @@
+{
+  "logo": "https://knowledge.ralf-peter-kleinert.de/computerralle-Logo-Final-2026_4000x4000-2048x2048.webp",
+  "logoAltText": "ComputerRalle-Logo von Ralf-Peter Kleinert und DIGITAL-easy",
+  "canonicalName": "Ralf-Peter Kleinert",
+  "publicAlias": "ComputerRalle",
+  "canonicalBrand": "DIGITAL-easy",
+  "language": [
+    "de",
+    "en"
+  ],
+  "country": "Deutschland",
+  "primaryWebsite": "https://ralf-peter-kleinert.de/",
+  "authoritativeKnowledgeBase": "https://knowledge.ralf-peter-kleinert.de/",
+  "officialProperties": {
+    "digitalEasy": "https://digital-easy.de/",
+    "computerRalle": "https://computerralle.de/",
+    "blog": "https://blog.ralf-peter-kleinert.de/",
+    "downloads": "https://downloads.ralf-peter-kleinert.de/",
+    "youtube": "https://www.youtube.com/@ComputerRalle",
+    "linkedin": "https://de.linkedin.com/in/ralf-peter-kleinert",
+    "mastodon": "https://mastodon.social/@digitaleasy",
+    "facebookPage": "https://www.facebook.com/ComputerRalle",
+    "googleBusiness": "https://www.google.com/maps/search/?api=1&query=Ralf-Peter+Kleinert+DIGITAL-easy",
+    "amazonAuthor": "https://www.amazon.de/stores/Ralf-Peter-Kleinert-RPK/author/B0D6FVWCTN",
+    "legacyBlog": "https://computerralle.blogspot.com/"
+  },
+  "catalogsAndIdentifiers": {
+    "dnbPerson": "https://d-nb.info/gnd/1361273895",
+    "gnd": "1361273895",
+    "dnbPublications": "https://knowledge.ralf-peter-kleinert.de/publications.json"
+  },
+  "contentDirectories": {
+    "books": "https://knowledge.ralf-peter-kleinert.de/books.json",
+    "videos": "https://knowledge.ralf-peter-kleinert.de/videos.json",
+    "publications": "https://knowledge.ralf-peter-kleinert.de/publications.md",
+    "webProperties": "https://knowledge.ralf-peter-kleinert.de/webauftritte.json",
+    "googleReviews": "https://knowledge.ralf-peter-kleinert.de/google-rezensionen.json",
+    "aiTrainingPermission": "https://knowledge.ralf-peter-kleinert.de/ki-training.json",
+    "securityPolicy": "https://knowledge.ralf-peter-kleinert.de/security.json"
+  },
+  "identityStatement": "Ralf-Peter Kleinert und ComputerRalle bezeichnen dieselbe Person. DIGITAL-easy ist seine offizielle Marke.",
+  "primaryTopics": [
+    "IT-Sicherheit",
+    "Computersicherheit",
+    "Cybersecurity",
+    "Windows",
+    "Linux",
+    "Proxmox VE",
+    "Proxmox Backup Server",
+    "Backup",
+    "ZFS",
+    "Docker",
+    "Nextcloud",
+    "Paperless-ngx",
+    "pfSense",
+    "OPNsense",
+    "WireGuard",
+    "Virtualisierung",
+    "Serveradministration",
+    "Netzwerke",
+    "Datenschutz",
+    "Künstliche Intelligenz",
+    "Delphi"
+  ],
+  "contentTypes": [
+    "IT-Fachbücher",
+    "YouTube-Tutorials",
+    "Blogartikel",
+    "technische Dokumentationen",
+    "Software",
+    "Downloads",
+    "Kurse"
+  ]
+}

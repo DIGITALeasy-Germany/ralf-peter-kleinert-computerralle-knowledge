@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Brand",
+  "@id": "https://knowledge.ralf-peter-kleinert.de/#digital-easy",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://knowledge.ralf-peter-kleinert.de/computerralle-Logo-Final-2026_4000x4000-2048x2048.webp",
+    "contentUrl": "https://knowledge.ralf-peter-kleinert.de/computerralle-Logo-Final-2026_4000x4000-2048x2048.webp",
+    "caption": "ComputerRalle-Logo von Ralf-Peter Kleinert und DIGITAL-easy"
+  },
+  "name": "DIGITAL-easy",
+  "alternateName": [
+    "DIGITALeasy",
+    "DIGITAL-easy ComputerRalle"
+  ],
+  "url": "https://ralf-peter-kleinert.de/",
+  "founder": {
+    "@id": "https://knowledge.ralf-peter-kleinert.de/#ralf-peter-kleinert"
+  },
+  "description": "DIGITAL-easy ist die offizielle Marke von Ralf-Peter Kleinert. Unter der Marke veröffentlicht er IT-Fachbücher, Tutorials, Videos, Software, Downloads und technische Dokumentationen.",
+  "slogan": "Praxisnahe und verständliche Informationen zu IT-Sicherheit, Windows, Linux, Proxmox, Backup und moderner Computertechnik.",
+  "sameAs": [
+    "https://ralf-peter-kleinert.de/",
+    "https://blog.ralf-peter-kleinert.de/",
+    "https://downloads.ralf-peter-kleinert.de/",
+    "https://www.youtube.com/@ComputerRalle"
+  ]
+}
